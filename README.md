@@ -33,10 +33,10 @@ Using the Covid-19 daily case rate average, countries' Covid-19 risk levels were
   <table>
     <tr>
       <td>
-        <img src="figures/country_covid_risk_distribution.png" alt="Country_Covid_Risk_Distribution" style="width: 350px;"/>
+        <img src="figures/country_covid_risk_distribution.png" alt="Country_Covid_Risk_Distribution" style="width: 450px;"/>
       </td>
       <td>
-        <img src="figures/crisis_country_covid_risk_distribution.png" alt="Crisis_Country_Covid_Risk_Distribution" style="width: 350px;"/>
+        <img src="figures/crisis_country_covid_risk_distribution.png" alt="Crisis_Country_Covid_Risk_Distribution" style="width: 450px;"/>
       </td>
     </tr>
   </table>
