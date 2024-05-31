@@ -3,7 +3,7 @@ This project contains the recommendation of how humanitarian aid should be prior
 
 ![Website_Home_Page](figures/website_homepage.png)
 
-![Coronavirus_Cumulative_Cases](figures/coronavirus_cumulative_cases)
+![Coronavirus_Cumulative_Cases](figures/coronavirus_cumulative_cases.png)
 
 ![Humanitarian_Aid_Needed](figures/humanitarian_aid_needed.png)
 
