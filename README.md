@@ -29,16 +29,18 @@ On April 14th, 2022, Brown University's School of Public Health[https://globalep
 
 Using the Covid-19 daily case rate average, countries' Covid-19 risk levels were distributed as shown below. Amongst countries facing a humanitarian crisis at the time, the distribution of Covid-19 risk level was even worse.
 
-<table>
-  <tr>
-    <td>
-      <img src="figures/country_covid_risk_distribution.png" alt="Country_Covid_Risk_Distribution" style="width: 300px;"/>
-    </td>
-    <td>
-      <img src="figures/crisis_country_covid_risk_distribution.png" alt="Crisis_Country_Covid_Risk_Distribution" style="width: 300px;"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="figures/country_covid_risk_distribution.png" alt="Country_Covid_Risk_Distribution" style="width: 350px;"/>
+      </td>
+      <td>
+        <img src="figures/crisis_country_covid_risk_distribution.png" alt="Crisis_Country_Covid_Risk_Distribution" style="width: 350px;"/>
+      </td>
+    </tr>
+  </table>
+</p>
 
 # Humanitarian Aid Country Priority Evaluation
 
